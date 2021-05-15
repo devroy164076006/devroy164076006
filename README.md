@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lakshmi Narayana
 - 👀 I’m interested in 5G Wireless Networks, Content Delivery Networks, Edge Computing. 
-- 💞️ I’m looking to collaborate on on these research areas
+- 💞️ I’m looking to collaborate on  these research areas
 - 📫 How to reach me  lakshmi.n.borusu@gmail.com
 
 <!---
